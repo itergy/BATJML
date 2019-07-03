@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Configurations>
+
+  <ErrorLog>C:\\Program Files\\Microsoft Forefront Identity Manager\\2010\\Synchronization Service\\MaData\\SFMA\\MA_Errors\\SyncError_</ErrorLog>
+  <MIMServer>AZGLGBNEVTP01</MIMServer>
+</Configurations>
+
